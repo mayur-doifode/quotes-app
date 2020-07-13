@@ -1,6 +1,6 @@
 # quotes
 
-A new Flutter application.
+Learning Flutter for the first time.
 
 ## Getting Started
 
